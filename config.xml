@@ -1,0 +1,8 @@
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.iessanvicente" versionCode="1" version="0.0.1">
+	<name>My Pod</name>
+	<description> App My Pod </description>
+	<author email="sergiopadilla2001@gmail.com"> Sergio Padilla </author>
+	<access origin="*"/>
+	<plugin name="cordova-plugin-whitelist"/>
+	<icon src="miniaturas/mypod.png"/>
+</widget>
