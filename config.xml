@@ -4,5 +4,5 @@
 	<author email="sergiopadilla2001@gmail.com"> Sergio Padilla </author>
 	<access origin="*"/>
 	<plugin name="cordova-plugin-whitelist"/>
-	<icon src="miniaturas/mypod.png"/>
+	<icon src="icon.png"/>
 </widget>
