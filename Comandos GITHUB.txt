@@ -1,0 +1,18 @@
+git clone link -> Clonar
+
+--- PARA ENTRAR ---
+cd link
+
+--- PARA SUBIR ---
+git add (archivo)
+git commit -m "comentario"
+git push -u origin master
+
+--- PARA BORRAR ---
+(Borras el archivo y luego...)
+git add .
+git commit -m "comentario"
+git push -u origin master
+
+--- PARA ACTUALIZAR ---
+git pull
